@@ -1,5 +1,7 @@
 This library has some usefull Qt classes and widgets for asyncronious operations.
 
+Watch demo video by clicking on the below image.
+
 [![qt-async demo video](https://img.youtube.com/vi/aTXOpmVRXq0/maxresdefault.jpg)](https://youtu.be/aTXOpmVRXq0)
 
 # Brief overview
