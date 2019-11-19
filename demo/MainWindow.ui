@@ -38,7 +38,7 @@
     <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="tab1">
        <attribute name="title">
@@ -122,6 +122,13 @@
               <widget class="QRadioButton" name="radioButtonSpinnerLines">
                <property name="text">
                 <string>Spinner Lines</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QRadioButton" name="radioButtonCircle">
+               <property name="text">
+                <string>Progress Circle</string>
                </property>
               </widget>
              </item>
